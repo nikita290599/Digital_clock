@@ -1,0 +1,16 @@
+.conta{
+    margin-top:20vh;
+    border: 2px solid white;
+    -webkit-border-radius: 12px; 
+    padding:20px;
+}
+body{
+    text-align: center;
+    background-color:black;
+    color:white;
+    margin: auto;
+    width:60%;
+    height: 50%;
+    
+    
+}
